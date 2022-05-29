@@ -1,0 +1,7 @@
+[package]
+name = "detect-walrus-app-desktop"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+wry = "0.17.0"
